@@ -7,8 +7,8 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254742491666']
-global.ownMain = '254742491666'
+global.owner = ['2348120055226']
+global.ownMain = '2348120055226'
 global.NamaOwner = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //
 global.sessionName = 'session'
 global.connect = true // 
